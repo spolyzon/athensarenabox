@@ -1,2 +1,2 @@
-# athensarenabox
-This is the initial repo for the project for Athens Arena Bo
+# Athens Arena Box
+This is the initial repo for the project for Athens Arena Box

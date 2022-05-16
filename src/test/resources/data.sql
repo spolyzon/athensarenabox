@@ -1,0 +1,2 @@
+insert into CLIENT (MOBILE, FIRST_NAME, LAST_NAME, EMAIL, REGISTRATION_DATE) values ('1234567890', 'first', 'client', 'client@first.com', '2022-04-16');
+insert into CLIENT (MOBILE, FIRST_NAME, LAST_NAME, EMAIL, REGISTRATION_DATE) values ('0987654321', 'second', 'client', 'client@second.com', '2022-04-16');
